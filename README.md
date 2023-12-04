@@ -39,7 +39,7 @@ tmux windows, or dream up your own custom action and execute with a single key
 ```lua
 use "nvim-lua/plenary.nvim" -- don't forget to add this one if you don't have it yet!
 use {
-    "ThePrimeagen/harpoon",
+    "GitWorkflows/harpoon",
     branch = "harpoon2",
     requires = { {"nvim-lua/plenary.nvim"} }
 }
@@ -200,10 +200,10 @@ very conservative on what I take.  I don't want Harpoon _solving_ specific
 issues, I want it to create the proper hooks to solve any problem
 
 ## ⇁ Social
-For questions about Harpoon, there's a #harpoon channel on [the Primeagen's Discord](https://discord.gg/theprimeagen) server.
-* [Discord](https://discord.gg/theprimeagen)
-* [Twitch](https://www.twitch.tv/theprimeagen)
-* [Twitter](https://twitter.com/ThePrimeagen)
+For questions about Harpoon, there's a #harpoon channel on [the Primeagen's Discord](https://discord.gg/gitworkflows) server.
+* [Discord](https://discord.gg/gitworkflows)
+* [Twitch](https://www.twitch.tv/gitworkflows)
+* [Twitter](https://twitter.com/GitWorkflows)
 
 ## ⇁ Note to legacy Harpoon 1 users
 Original Harpoon will remain in a frozen state and i will merge PRs in with _no
